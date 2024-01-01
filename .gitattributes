@@ -1,1 +1,2 @@
 data/raw/20181024_d1_0830_0900.csv filter=lfs diff=lfs merge=lfs -text
+traffic_data/raw/20181024_d1_0830_0900.csv filter=lfs diff=lfs merge=lfs -text
